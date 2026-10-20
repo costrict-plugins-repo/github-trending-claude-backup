@@ -1,0 +1,16 @@
+{
+  "name": "claude-backup",
+  "owner": {
+    "name": "tombelieber"
+  },
+  "plugins": [
+    {
+      "name": "claude-backup",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/tombelieber/claude-backup.git"
+      },
+      "description": "Back up and restore your Claude Code environment"
+    }
+  ]
+}
